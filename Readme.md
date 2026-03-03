@@ -71,6 +71,7 @@
   <img src="images/process/8.png" width="30%" alt="彩色填充"/>
   <img src="images/process/9.png" width="30%" alt="细胞分割结果"/>
 </div>
+
 ![各细胞独立窗口展示](images/process/10.png)
 
 ## 项目亮点
