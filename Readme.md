@@ -97,9 +97,12 @@
 3. 精准识别细胞内红/绿色染色体，实现形态筛选、数量统计与质心坐标标注；
 4. 代码通过cell2、cell3多组样本测试，均能实现稳定的分割与识别，鲁棒性良好。
 3个样本的分割计数效果如下所示：
-![实验结果展示](images/result/result1.png)
-![实验结果展示](images/result/result2.png)
-![实验结果展示](images/result/result3.png)
+<div align="center">
+  <img src="images/result/result1.png" width="30%" alt="样例1分割结果"/>
+  <img src="images/result/result2.png" width="30%" alt="样例2分割结果"/>
+  <img src="images/result/result3.png" width="30%" alt="样例3分割结果"/>
+</div>
+
 
 
 ### 项目总结
